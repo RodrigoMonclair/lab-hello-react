@@ -1,0 +1,62 @@
+
+*{
+  margin: 0
+}
+.nav{
+  background-color: rgb(31,37,53);
+  position: relative;
+  padding-left: 15px;
+  height: 20vh;
+}
+
+.ironLogo{
+  padding: 30px;
+  position:absolute;
+}
+
+.menuLogo{
+  position: absolute;
+  right: 40px;
+  padding: 40px;
+  
+}
+
+
+.header{
+  background-color: rgb(31,37,53);
+  height: 60vh;
+  padding-left: 40px;
+}
+.title{
+  font-family: Arial, Helvetica, sans-serif;
+  color: #fff;
+  font-size: 5rem;;
+}
+
+.text{
+  font-family: Arial, Helvetica, sans-serif;
+  color: #fff;
+  font-size: 1.5rem;
+  font-weight: 100;
+}
+
+
+.divBtn{
+  background-color: rgb(31,37,53);
+  height: 20vh;
+  padding-left: 80px;
+}
+
+.btn{
+  height: 70px;
+  width: 130px;
+  color: rgb(31,37,53);
+  font-size: 1.2rem;
+  font-weight: bold;
+
+}
+.divTopics{
+ display: inline-block;
+ height: 300px;
+ 
+}
