@@ -53,10 +53,34 @@
   color: rgb(31,37,53);
   font-size: 1.2rem;
   font-weight: bold;
-
+  border-radius: 10px;
 }
 .divTopics{
  display: inline-block;
  height: 300px;
+ margin: 30px 30px 30px 80px;
+ padding: 30px;
  
+}
+
+.topic{
+  height: 200px;
+  width: 200px;
+}
+
+.topic img{
+  width: 150px
+}
+
+
+.topicTitle{
+  font-size: 1.8rem;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(101, 101, 105);
+}
+
+.topicText{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.3rem;
+  color:rgb(101, 101, 105);
 }

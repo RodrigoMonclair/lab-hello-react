@@ -2,10 +2,10 @@ function Topics(props){
     console.log(props)
     return (
         <div className="divTopics">
-            <div>
+            <div className="topic">
                 <img src={props.src}></img>
-                <h4>{props.title}</h4>
-                <p>{props.text}</p>
+                <h4 className="topicTitle">{props.title}</h4>
+                <p className="topicText">{props.text}</p>
             </div>
         </div>
     )
